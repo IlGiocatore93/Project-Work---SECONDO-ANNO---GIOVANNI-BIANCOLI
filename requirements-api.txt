@@ -1,0 +1,5 @@
+flask
+pymongo
+pyjwt
+requests
+tzdata

@@ -1,0 +1,8 @@
+flask
+pymongo
+pyjwt
+ultralytics
+opencv-python
+pillow
+requests
+tzdata
