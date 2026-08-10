@@ -1,0 +1,72 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "🚀 Avvia Progetto",
+            "type": "shell",
+            "command": "${workspaceFolder}\\start.bat",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "clear": true,
+                "focus": true
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "🐳 Docker Compose Up (background)",
+            "type": "shell",
+            "command": "docker compose up -d",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "clear": true,
+                "focus": true
+            },
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "🌱 Seed Database + Apri Compass",
+            "type": "shell",
+            "command": "python seed_db_galleria.py",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "clear": true,
+                "focus": true
+            },
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "🎬 Avvia GUI",
+            "type": "shell",
+            "command": "python app2.py",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "clear": true,
+                "focus": true
+            },
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "⬇️  Stop e Rimuovi Volume (reset completo)",
+            "type": "shell",
+            "command": "docker compose down -v",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "clear": true
+            },
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
