@@ -18,6 +18,8 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 
 ⚙️Funzionalità:
  ▶ Per accedere all'interfaccia bisogna autenticarsi tramite credenziali (JWT), nel caso vengano inserite errate, dà un messaggio di errore con un messaggio di timing per poter inserire nuovamente le credenziali fino a tre volte poi si      chiude automaticamente
+
+ 
  ▶ La finestra dell'interfaccia(Galleria - Tipologie) è "responsive", ovvero tutti i componenti all'interno di essa si muovono in modo proporzionale se allarghi o restringi la finestra dell'interfaccia
  ▶ E' possibile scorrere il "menu" in alto a sinistra aprendo delle tendine per ogni sezione: file, modifica, visualizza, guida con l'ulteriore possibilità di scorrere nelle sottosezioni
  ▶ Nell'area di testo, collegata al tasto "apri", è possibile visualizzare il contenuto all'interno dei file .txt e successivamente si possono salvare con un altro nome
