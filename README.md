@@ -41,8 +41,9 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 
 🐍Anteprima dell'interfaccia🪟:
 
-<img width="1767" height="702" alt="avvio rapido-start bat(cmd)" src="https://github.com/user-attachments/assets/96961695-9cfc-46fb-a594-c18b58e3ea7d" />
-<img width="1713" height="924" alt="avvio python seed_db_galleria py(cmd)" src="https://github.com/user-attachments/assets/bbd7608a-6394-4f72-86a8-6a1a17a83899" />
+
+<img width="1698" height="816" alt="avvio python seed_db_galleria py(cmd)" src="https://github.com/user-attachments/assets/e9b1bf91-30ec-47b9-a103-941a308a0d76" />
+<img width="1733" height="523" alt="avvio rapido-start bat(cmd)" src="https://github.com/user-attachments/assets/f4fce4e0-8dd1-4ab7-ae5d-23d5c003acfa" />
 <img width="1607" height="670" alt="docker" src="https://github.com/user-attachments/assets/66076b9c-8e27-46d2-869e-885c24f3425c" />
 <img width="431" height="387" alt="blocco autenticazione(delay)" src="https://github.com/user-attachments/assets/26588852-a1dc-4c32-8171-adb610542c48" />
 <img width="1246" height="920" alt="bottone rileva-rilevazione yolo" src="https://github.com/user-attachments/assets/ed6fb190-6f15-47cb-9b6c-04649732f1a6" />
