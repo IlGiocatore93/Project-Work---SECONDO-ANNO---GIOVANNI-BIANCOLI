@@ -1,4 +1,4 @@
-# 🖼️🗂️ Galleria - Tipologie --> Project-Work DevOps 2026 --> SECONDO-ANNO
+# 🖼️🗂️ Galleria - Tipologie --> Project-Work DevOps 2026 --> SECONDO ANNO
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
