@@ -47,7 +47,6 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 <img width="431" height="387" alt="blocco autenticazione(delay)" src="https://github.com/user-attachments/assets/26588852-a1dc-4c32-8171-adb610542c48" />
 <img width="1246" height="920" alt="bottone rileva-rilevazione yolo" src="https://github.com/user-attachments/assets/ed6fb190-6f15-47cb-9b6c-04649732f1a6" />
 <img width="1567" height="915" alt="bottone istruzioni" src="https://github.com/user-attachments/assets/bc261c4d-b732-4232-8d7d-2466b46f2b52" />
-<img width="1499" height="1012" alt="bottone scarica simili dal server-download completato" src="https://github.com/user-attachments/assets/c68f0204-67cc-4e47-9bd8-81d398e546aa" />
 <img width="1494" height="1021" alt="bottone seleziona-esplora tipologie-scarica tutte dal server" src="https://github.com/user-attachments/assets/9d4e47ad-d0e9-4222-8462-68c849bff900" />
 <img width="1865" height="690" alt="mongo1" src="https://github.com/user-attachments/assets/7e28d51f-beb5-49c9-b837-cc9ed94b6192" />
 
