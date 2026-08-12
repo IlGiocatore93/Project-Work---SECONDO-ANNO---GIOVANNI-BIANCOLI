@@ -14,7 +14,7 @@
 
 
 
-Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante dell'informatica e di ogni tecnologia esistente. In questo progetto viene ottimizzata la ricerca, l'autenticazione e lo scaricamento dal server, in una galleria di tipologie casuali, principalmente quando devo cambiare Tipologia o verificare le immagini che siano presenti nel server e l'orario a cui le scarichi ma soprattutto le informazioni che rileva con YOLO e i vari messaggi che vengono scritti sulla barra di caricamento.
+Benvenuto nel mio progetto Github!🛠️ Sono <h3>Giovanni</h3>, studente DevOps, amante dell'informatica e di ogni tecnologia esistente. In questo progetto viene ottimizzata la ricerca, l'autenticazione e lo scaricamento dal server, in una galleria di tipologie casuali, principalmente quando devo cambiare Tipologia o verificare le immagini che siano presenti nel server e l'orario a cui le scarichi ma soprattutto le informazioni che rileva con YOLO e i vari messaggi che vengono scritti sulla barra di caricamento.
 
 ⚙️Funzionalità:
 
