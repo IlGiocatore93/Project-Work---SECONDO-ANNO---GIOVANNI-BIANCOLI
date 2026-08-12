@@ -78,6 +78,9 @@ Benvenuto nel mio progetto Github!🛠️ Sono **Giovanni**, studente DevOps, am
  
  ▶ Ho creato un file chiamato seed_db_galleria.py che esegue un injection nel database MongoDB e lo popola, successivamente ho sviluppato un bat che automatizzava il tutto: Apertura Docker + Esecuzione see_db_galleria.py + Apertura MongoDB con già credenziali attive 
  
+ 
+ ▶ Ho creato un secondo bat per automatizzare letteralmente tutti i processi: |Ti crea in automatico il virtual env e ti cerca la versione più recente di python e te la installa nella cartella nel caso non la avessi già installata dentro la cartella  |  ti attiva gli script | verifica se le dipendenze sono già presenti all'interno della cartella: prima crea il file requirements.txt, se non presente, poi esegue il comando-> pip install flask pymongo pyjwt ultralytics opencv-python pillow requests tzdata per le dipendenze  |  ti cerca docker nel pc, nel caso te lo installa e lo esegue, controllato ogni percorso possibile  |  ti esegue il docker compose up -d per eseguire i processi all'interno del file docker-compose.yml con le dipendenze incluse e avviando i container  |  avvia i container in automatico  |  ti esegue python seed_db_galleria.py per fare l'injection dei dati in MongoDB  |  ti esegue app2.py aprendotelo in vsCode
+
 
 🐍Anteprima dell'interfaccia🪟:
 
