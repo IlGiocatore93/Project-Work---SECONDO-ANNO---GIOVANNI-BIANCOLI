@@ -93,7 +93,8 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 <img width="1494" height="1021" alt="bottone seleziona-esplora tipologie-scarica tutte dal server" src="https://github.com/user-attachments/assets/9d4e47ad-d0e9-4222-8462-68c849bff900" />
 <img width="1865" height="690" alt="mongo1" src="https://github.com/user-attachments/assets/7e28d51f-beb5-49c9-b837-cc9ed94b6192" />
 
-<br><br>
+&nbsp;
+
 
 
 
