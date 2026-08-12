@@ -96,6 +96,8 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 
 
 
+
+
 💻Tecnologia utilizzata: 🔖 Python 3.x, 🔖 tkinter + ttk + filedialog + messagebox, 🔖 pillow(gestione immagini), 🔖 flask, 🔖 MongoDB, 🔖 YOLO, 🔖 OpenCV, 🔖 Docker
 
 
@@ -133,6 +135,8 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 
 # Avvio dell'applicativo:
 python app2.py
+
+
 
 
 
