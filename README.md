@@ -140,12 +140,10 @@ python app2.py
 
 <br>
 
-
 🤝 Vuoi contribuire e migliorare il progetto?💭 Apri una Issue o una Pull Request su Github!💡
 
 
 <br>
-
 
 Licenza: MIT - Libero di esplorare, migliorare e condividere.
 
@@ -153,13 +151,11 @@ Licenza: MIT - Libero di esplorare, migliorare e condividere.
 <br>
 
 
-
 🧑‍💻 Creato da: [Giovanni](https://github.com/IlGiocatore93)
 
 
 
 <br>
-
 
 🤙 Se ti è piaciuto il progetto, lascia una ✨ su GitHub!🌐
 
