@@ -138,7 +138,7 @@ Benvenuto nel mio progetto Github!🛠️ Sono **Giovanni**, studente DevOps, am
 python app2.py
 
 
-<br>
+<br><br>
 
 🤝 Vuoi contribuire e migliorare il progetto?💭 Apri una Issue o una Pull Request su Github!💡
 
