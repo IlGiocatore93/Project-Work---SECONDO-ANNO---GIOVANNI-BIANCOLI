@@ -102,7 +102,7 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 💻Tecnologia utilizzata: 🔖 Python 3.x, 🔖 tkinter + ttk + filedialog + messagebox, 🔖 pillow(gestione immagini), 🔖 flask, 🔖 MongoDB, 🔖 YOLO, 🔖 OpenCV, 🔖 Docker
 
 
-<br><br>
+<br>
 
 
 🌟Una volta autenticato, esplora ogni singola funzionalità dell'applicazione, dalla visualizzazione delle Tipologie(immagini) da dentro il photoviewer ad una visualizzazzione via web grazie ai microservizi API REST, da Cloud a Web in un attimo!!😯🔥
