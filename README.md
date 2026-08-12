@@ -99,7 +99,7 @@ Benvenuto nel mio progetto Github!🛠️ Sono **Giovanni**, studente DevOps, am
 <br><br>
 
 
-💻Tecnologia utilizzata: 🔖 Python 3.x, 🔖 tkinter + ttk + filedialog + messagebox, 🔖 pillow(gestione immagini), 🔖 flask, 🔖 MongoDB, 🔖 YOLO, 🔖 OpenCV, 🔖 Docker
+💻Tecnologia utilizzata: 🔖 Python 3.x, 🔖 tkinter + ttk + filedialog + messagebox, 🔖 pillow(gestione immagini), 🔖 Flask, 🔖 MongoDB, 🔖 YOLO, 🔖 OpenCV, 🔖 Docker
 
 
 <br>
