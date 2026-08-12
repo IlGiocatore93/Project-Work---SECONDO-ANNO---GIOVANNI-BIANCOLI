@@ -82,6 +82,8 @@ Benvenuto nel mio progetto Github!🛠️ Sono Giovanni, studente DevOps, amante
 🐍Anteprima dell'interfaccia🪟:
 
 
+
+
 <img width="1698" height="816" alt="avvio python seed_db_galleria py(cmd)" src="https://github.com/user-attachments/assets/e9b1bf91-30ec-47b9-a103-941a308a0d76" />
 <img width="1733" height="523" alt="avvio rapido-start bat(cmd)" src="https://github.com/user-attachments/assets/f4fce4e0-8dd1-4ab7-ae5d-23d5c003acfa" />
 <img width="1607" height="670" alt="docker" src="https://github.com/user-attachments/assets/66076b9c-8e27-46d2-869e-885c24f3425c" />
@@ -135,7 +137,11 @@ python app2.py
 
 
 
+
+
 🤝 Vuoi contribuire e migliorare il progetto?💭 Apri una Issue o una Pull Request su Github!💡
+
+
 
 
 
@@ -144,7 +150,11 @@ Licenza: MIT - Libero di esplorare, migliorare e condividere.
 
 
 
+
+
 🧑‍💻 Creato da: [Giovanni](https://github.com/IlGiocatore93)
+
+
 
 
 
