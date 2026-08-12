@@ -121,7 +121,7 @@ Benvenuto nel mio progetto Github!🛠️ Sono **Giovanni**, studente DevOps, am
 
 
 # Installazione delle dipendenze necessarie:
-- pip install ttk
++ pip install ttk
 - pip install flask
 - pip install requests
 - pip install pymongo
