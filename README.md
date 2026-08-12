@@ -93,7 +93,7 @@ Benvenuto nel mio progetto Github!🛠️ Sono **Giovanni**, studente DevOps, am
 <img width="1494" height="1021" alt="bottone seleziona-esplora tipologie-scarica tutte dal server" src="https://github.com/user-attachments/assets/9d4e47ad-d0e9-4222-8462-68c849bff900" />
 <img width="1865" height="690" alt="mongo1" src="https://github.com/user-attachments/assets/7e28d51f-beb5-49c9-b837-cc9ed94b6192" />
 
-<br>
+<br><br>
 
 
 💻Tecnologia utilizzata: 🔖 Python 3.x, 🔖 tkinter + ttk + filedialog + messagebox, 🔖 pillow(gestione immagini), 🔖 flask, 🔖 MongoDB, 🔖 YOLO, 🔖 OpenCV, 🔖 Docker
@@ -105,7 +105,6 @@ Benvenuto nel mio progetto Github!🛠️ Sono **Giovanni**, studente DevOps, am
 🌟Una volta autenticato, esplora ogni singola funzionalità dell'applicazione, dalla visualizzazione delle Tipologie(immagini) da dentro il photoviewer ad una visualizzazzione via web grazie ai microservizi API REST, da Cloud a Web in un attimo!!😯🔥
 
 <br>
-
 
 
 🔑Requisiti: Assicurati di avere Python 3 installato correttamente. Ti consiglio di creare un ambiente virtuale per evitare conflitti tra pacchetti:
